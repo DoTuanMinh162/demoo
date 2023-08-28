@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    justify-content:space-between ;
+}
+h2{
+    color: blue;
+    background-color: aqua;
+}
+.mh{
+    flex: 1;
+}
+img{
+    height: 300px;
+}
+.hi{
+    display: flex;
+}
